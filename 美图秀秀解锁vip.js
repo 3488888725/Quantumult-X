@@ -5,7 +5,7 @@
 *******************************
 
 [rewrite_local]
-^https:\/\/api\.xiuxiu\.meitu\.com\/v1 url script-response-body https://raw.githubusercontent.com/fuyu103/Quantumult-X/main/mtxx.js
+^https:\/\/api\.xiuxiu\.meitu\.com\/v1 url script-response-body https://raw.githubusercontent.com/fuyu103/Quantumult-X/main/美图秀秀解锁vip.js
 [mitm] 
 hostname = api.xiuxiu.meitu.com
 
