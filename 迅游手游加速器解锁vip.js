@@ -8,7 +8,7 @@
 
 [rewrite_local]
 
-^https:\/\/api\.xunyou\.mobi\/api\/v1\/android\/sessions url script-response-body https://raw.githubusercontent.com/fuyu103/Quantumult-X/main/迅游手游加速器解锁vip.js
+^https:\/\/api\.xunyou\.mobi\/api\/v1\/android\/sessions url script-response-body https://raw.githubusercontent.com/3488888725/Quantumult-X/main/迅游手游加速器解锁vip.js
 
 [mitm] 
 hostname = api.xunyou.mobi
