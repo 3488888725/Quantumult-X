@@ -1,5 +1,5 @@
 [rewrite_local]
-^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json*? url script-response-body wywnds.js
+^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json*? url script-response-body https://raw.githubusercontent.com/3488888725/Quantumult-X/main/rewrite/wywnds.js
 
 
 [mitm]
